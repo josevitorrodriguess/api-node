@@ -22,7 +22,8 @@ Project Structure
 1. Clone the repository:
     ``bash
         git clone https://github.com/josevitorrodriguess/api-node.git
-        cd <api-node>
+    ``bash
+     cd <api-node>
 
 2. Install Dependencies:
     ``bash
