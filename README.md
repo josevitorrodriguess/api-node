@@ -24,7 +24,7 @@ Project Structure
         git clone https://github.com/josevitorrodriguess/api-node.git
     
     ``bash
-     cd <api-node>
+        cd api-node
 
 2. Install Dependencies:
     ``bash
